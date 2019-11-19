@@ -22,3 +22,15 @@ body,#backdiv{
 .openparent{
     background-color: #262C49;
 }
+.leftcolor1{
+    background: #10163a;
+}
+
+
+.shadwod{
+    background: linear-gradient(180deg, #0F1642 44%, rgba(15, 22, 66, 0.51) 73%, rgba(44, 48, 60, 0));
+}
+
+.namecolor{
+    color: #C2C6DC;
+}

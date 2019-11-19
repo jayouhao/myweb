@@ -1,5 +1,5 @@
 body,#backdiv{
-    background: #fff;
+    background: #f8f8f8;
 }
 #backdiv{
     position: fixed;
@@ -21,4 +21,15 @@ body,#backdiv{
 }
 .openparent{
     background-color: whitesmoke;
+}
+.leftcolor1{
+    background: #fff;
+}
+
+.shadwod{
+    background: linear-gradient(#FFFFFF 41%, rgba(255, 255, 255, 0.11) 95%, rgba(255, 255, 255, 0));
+}
+
+.namecolor{
+    color: #626262;
 }
